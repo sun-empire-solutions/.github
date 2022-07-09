@@ -3,4 +3,4 @@
 ## Hi there 👋
 ## Welcome to our organization.
 
-Feel free to join us. Came with new projects ideas and help us improve the existing projects.
+Feel free to join us. Came with new projects ideas and help us improve the existing ones.
